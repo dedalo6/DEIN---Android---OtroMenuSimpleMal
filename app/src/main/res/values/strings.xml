@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu2 de Aritz Perez</string>
+    <string name="download">Descargar\n</string>
+    <string name="share">Compartir</string>
+    <string name="copy_description">Copiar descripción</string>
+    <string name="descripcion_imagen">Una descripción de la imagen</string>
+    <string name="add_favorites">Añadir a favoritos</string>
+    <string name="move">Mover</string>
+</resources>
